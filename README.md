@@ -31,6 +31,25 @@ This folder contains the complete Part 1 deliverables for the HPC optimization a
 - `results/plots/`: generated result figures
 - `report/`: Word report deliverables and generation utility
 
+## Results and Reports
+
+Quick links:
+
+- Full results page: [results.md](results.md)
+- Benchmark CSV: [results/raw_data/benchmark_results.csv](results/raw_data/benchmark_results.csv)
+- Main report: [report/Part1_Optimization_Technique_Project_Report.docx](report/Part1_Optimization_Technique_Project_Report.docx)
+- Source code and screenshots report: [report/Part1_Source_Code_and_Screenshots.docx](report/Part1_Source_Code_and_Screenshots.docx)
+
+### Result Images
+
+#### Speedup Summary
+
+![Speedup Summary](results/plots/speedup_summary.png)
+
+#### Timings by Distribution
+
+![Timings by Distribution](results/plots/timings_by_distribution.png)
+
 ## How to Regenerate Artifacts
 
 ```bash
